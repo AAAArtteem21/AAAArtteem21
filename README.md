@@ -55,11 +55,6 @@ I build web applications, REST APIs and enjoy understanding how things work unde
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAAArtteem21\&show_icons=true\&hide_title=true\&hide_border=true\&theme=transparent)
-
----
 
 ## 💬 About Me
 
