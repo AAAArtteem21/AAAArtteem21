@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hey, I'm Artem 👋
 
-<!--
-**AAAArtteem21/AAAArtteem21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications, REST APIs and try to understand how things actually work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+Python • Django • DRF • PostgreSQL • Docker • Git
+```
+
+---
+
+## ⚙️ What I work with
+
+**Backend**
+
+* Python
+* Django
+* Django REST Framework
+* REST API
+
+**Database**
+
+* PostgreSQL
+* SQL
+* Django ORM
+
+**Tools**
+
+* Git / GitLab / GitHub
+* Docker
+* Linux
+* REST / HTTP
+
+---
+
+## 🚀 Projects
+
+### 🎮 GameEyes
+
+Gaming statistics and community platform.
+
+Working with:
+`Django` `DRF` `PostgreSQL` `React` `REST API`
+
+---
+
+### 🖼️ Derevo
+
+Catalog of 3D wooden pictures.
+
+Working with:
+`Django` `PostgreSQL` `Bootstrap` `Cloudinary`
+
+---
+
+## 🧠 Currently learning
+
+* Advanced Django & DRF
+* SQL optimization
+* System Design
+* Clean Architecture
+* Docker & deployment
+* How production systems work
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&theme=dark)
+
+---
+
+## 🐍 Contribution graph
+
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 💻 Setup
+
+```text
+ThinkPad
+Arch Linux
+VS Code
+Python
+Django
+PostgreSQL
+```
+
+> Building things. Breaking things. Understanding why they broke.
+
+---
+
+### 📫 Contact
+
+[GitHub](https://github.com/YOUR_USERNAME)
