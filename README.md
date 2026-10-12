@@ -18,7 +18,7 @@ I build web applications, REST APIs and enjoy understanding how things work unde
 * 🐘 PostgreSQL
 * 🐍 Django & Django REST Framework
 
-[GameEyes](https://gameeyes.onrender.com)
+[GameEyes](https://gamehub-gh6j.onrender.com/)
 
 ---
 
